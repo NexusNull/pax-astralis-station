@@ -1,0 +1,92 @@
+- type: decal
+  id: SpaceStationOreoSign1
+  tags: ["station"]
+  sprite:
+    sprite: Decals/oreo.rsi
+    state: oreo1
+
+- type: decal
+  id: SpaceStationOreoSign2
+  tags: ["station"]
+  sprite:
+    sprite: Decals/oreo.rsi
+    state: oreo2
+
+- type: decal
+  id: SpaceStationOreoSign3
+  tags: ["station"]
+  sprite:
+    sprite: Decals/oreo.rsi
+    state: oreo3
+
+- type: decal
+  id: SpaceStationOreoSign4
+  tags: ["station"]
+  sprite:
+    sprite: Decals/oreo.rsi
+    state: oreo4
+
+- type: decal
+  id: SpaceStationOreoSign5
+  tags: ["station"]
+  sprite:
+    sprite: Decals/oreo.rsi
+    state: oreo5
+
+- type: decal
+  id: SpaceStationOreoSign6
+  tags: ["station"]
+  sprite:
+    sprite: Decals/oreo.rsi
+    state: oreo6
+
+- type: decal
+  id: SpaceStationOreoSign7
+  tags: ["station"]
+  sprite:
+    sprite: Decals/oreo.rsi
+    state: oreo7
+
+- type: decal
+  id: SpaceStationOreoSign8
+  tags: ["station"]
+  sprite:
+    sprite: Decals/oreo.rsi
+    state: oreo8
+
+- type: decal
+  id: SpaceStationOreoSign9
+  tags: ["station"]
+  sprite:
+    sprite: Decals/oreo.rsi
+    state: oreo9
+
+- type: decal
+  id: SpaceStationOreoSign10
+  tags: ["station"]
+  sprite:
+    sprite: Decals/oreo.rsi
+    state: oreo10
+
+- type: decal
+  id: SpaceStationOreoSign11
+  tags: ["station"]
+  sprite:
+    sprite: Decals/oreo.rsi
+    state: oreo11
+
+- type: decal
+  id: SpaceStationOreoSign12
+  tags: ["station"]
+  sprite:
+    sprite: Decals/oreo.rsi
+    state: oreo12
+
+- type: decal
+  id: SpaceStationOreoSign13
+  tags: ["station"]
+  sprite:
+    sprite: Decals/oreo.rsi
+    state: oreo13
+
+
